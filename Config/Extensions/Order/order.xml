@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<core_developmentsettings>
+    <status>active</status>
+    <filename>order</filename>
+    <name>order</name>
+    <displayname>Order</displayname>
+    <rootmodule>false</rootmodule>
+    <codemodule>false</codemodule>
+    <moduledisplay>false</moduledisplay>
+    <sort_value>1</sort_value>
+    <setuppath>Modules/Order/Setup</setuppath>
+    <datapath>Modules/Order/Data</datapath>
+    <schemaversion>1.0.0</schemaversion>
+    <dataversion>1.0.0</dataversion>
+</core_developmentsettings>
